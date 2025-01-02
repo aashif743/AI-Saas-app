@@ -45,4 +45,3 @@ const Home = async ({ searchParams }: SearchParamProps) => {
 }
 
 export default Home
-export const runtime = 'nodejs';
